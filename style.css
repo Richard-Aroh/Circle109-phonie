@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+body{
+    font-size: 16px;
+    background-color: #eeeff8;
+}
+.Enter_phone_no {
+  width: 50%;
+  box-sizing: border-box;
+  margin-left: 25%;
+  margin-top: 10%;
+  padding: 15px 20px;
+  border-radius: 10px;
+  border: 3px solid #ccc;
+  color: #c3c3c3;
+}
+.input-error {
+  color: #dc143c;
+  margin-left: 27%;
+  margin-top: 8px;
+}
+
+/* --- Footer
+
+footer{
+    background: #5461D6;
+    color: #fff;
+    padding: 20px 60px
+}
+.footer-row{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.footer-col h3{
+    font-size: 25px;   
+}
+.footer-col h5{
+    font-size: 16px;
+    margin-top: 5px;
+}
+.copyright{
+    text-align: center;
+    margin-top: 15px;
+}
+.copyright p{
+    font-size: 14px;
+}   ---*/
